@@ -47,6 +47,7 @@ The asymmetry creates a fundamentally different experience from games like chess
 |---|---|---|
 | ![Splash](images/splash.png) | ![Gameplay](images/gameplay.png) | ![Game Over](images/gameover.png) |
 
+---
 
 ## Rules
 
