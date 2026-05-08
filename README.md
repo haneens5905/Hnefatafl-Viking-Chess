@@ -43,17 +43,17 @@ The asymmetry creates a fundamentally different experience from games like chess
 
 ## Screenshots
 
-**Splash Screen**
-<img src="images/splash.png" width="600"/>
+### Splash Screen
+<img src="images/splash.png" width="400"/>
 
 ---
 
-**Gameplay**
+### Gameplay
 <img src="images/gameplay.png" width="600"/>
 
 ---
 
-**Game Over**
+### Game Over
 <img src="images/gameover.png" width="600"/>
 
 ---
