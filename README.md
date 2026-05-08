@@ -41,6 +41,13 @@ The asymmetry creates a fundamentally different experience from games like chess
 
 ---
 
+## Screenshots
+
+| Splash Screen | Gameplay | Game Over |
+|---|---|---|
+| ![Splash](images/splash.png) | ![Gameplay](images/gameplay.png) | ![Game Over](images/gameover.png) |
+
+
 ## Rules
 
 ### Board Layout
