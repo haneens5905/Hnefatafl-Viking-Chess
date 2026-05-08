@@ -291,12 +291,12 @@ What the tests cover:
 <table>
   <tr>
     <td align="center">
-      <b>Ziad Tarek</b><br/>
-      <a href="https://github.com/YOUR_GITHUB">@GitHub</a>
+      <b>Shaza Moatasem</b><br/>
+      <a href="https://github.com/shaza-22">@shaza-22</a>
     </td>
     <td align="center">
-      <b>Shaza Moatasem</b><br/>
-      <a href="https://github.com/YOUR_GITHUB](https://github.com/shaza-22">@shaza-22</a>
+      <b>Ziad Tarek</b><br/>
+      <a href="https://github.com/ziad-91">@ziad-91</a>
     </td>
     <td align="center">
       <b>Seif Waleed</b><br/>
