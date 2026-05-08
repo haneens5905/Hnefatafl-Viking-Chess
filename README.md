@@ -296,7 +296,7 @@ What the tests cover:
     </td>
     <td align="center">
       <b>Shaza Moatasem</b><br/>
-      <a href="https://github.com/YOUR_GITHUB">@GitHub</a>
+      <a href="https://github.com/YOUR_GITHUB](https://github.com/shaza-22">@GitHub</a>
     </td>
     <td align="center">
       <b>Seif Waleed</b><br/>
